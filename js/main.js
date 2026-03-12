@@ -702,10 +702,6 @@ if (heroSection) {
     heroObserver.observe(heroSection);
 }
 
-// ==================== CONSOLE BRANDING ====================
-console.log('%c🚀 NULLBIT', 'font-size: 40px; font-weight: bold; background: linear-gradient(135deg, #00ff88, #00d4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;');
-console.log('%cForging the Future in Code', 'font-size: 16px; color: #00ff88; font-weight: 600;');
-
 // ==================== PARTICLES BACKGROUND ====================
 function initParticles() {
     const canvas = document.getElementById('particleCanvas');
