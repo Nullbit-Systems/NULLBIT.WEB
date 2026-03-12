@@ -1568,6 +1568,10 @@ body {
   left: 30px;
 }
 
+.mobile-menu-btn {
+  display: none;
+}
+
 @media (max-width: 992px) {
   .contact-grid {
     grid-template-columns: 1fr;
@@ -1687,8 +1691,4 @@ body {
   .about-grid {
     grid-template-columns: 1fr;
   }
-}
-
-.mobile-menu-btn {
-  display: none;
 }
