@@ -132,7 +132,7 @@ const translations = {
         form_subject_ph: "How can we help?",
         form_message: "Tell us about your operational bottlenecks...",
         form_message_ph: "Tell us about your project...",
-        form_submit: "Initiate System Consult",
+        form_submit: "Send Free Consultation",
         footer_rights: "All rights reserved.",
         terminal_header: "System Initialization",
         game_score: "Modules Synced: {score}/5",
