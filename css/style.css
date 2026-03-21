@@ -1717,8 +1717,8 @@ body {
 
   .hero {
     min-height: auto;
-    padding-top: 100px; /* Barely clears the fixed header */
-    padding-bottom: var(--spacing-xl);
+    padding-top: 75px; /* Minimal clearance for the navbar */
+    padding-bottom: var(--spacing-lg);
   }
 
   /* Typography and Layout scaling for Mobile */
@@ -1726,7 +1726,7 @@ body {
     grid-template-columns: 1fr;
     text-align: center;
     gap: var(--spacing-md);
-    padding-top: var(--spacing-md); /* Reduce top padding on mobile */
+    padding-top: 10px; /* Minimal top padding on mobile */
   }
   
   .hero-title {
